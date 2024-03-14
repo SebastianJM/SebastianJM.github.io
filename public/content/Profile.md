@@ -3,7 +3,7 @@
 
 ## Header
 - Hi, I'm Sebastián. 
-- A full stack-developer.
+- A full-stack developer.
 - C#, Javascript, Java, NodeJS and C/C++.
 - React, .NET Core, Grails, ExpressJS, SQL, MongoDB and Unity.
 
